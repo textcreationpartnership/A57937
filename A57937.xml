@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heaven's glory, and hell's terror containing the glory of the saints in heaven with Jesus Christ, and the eternal torments of the damned in hell.</title>
+            <author>Russel, Robert, fl. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57937</idno>
+            <idno type="STC">Wing R2347E</idno>
+            <idno type="STC">ESTC R219967</idno>
+            <idno type="EEBO-CITATION">99831411</idno>
+            <idno type="PROQUEST">99831411</idno>
+            <idno type="VID">35874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2096:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heaven's glory, and hell's terror containing the glory of the saints in heaven with Jesus Christ, and the eternal torments of the damned in hell.</title>
+                  <author>Russel, Robert, fl. 1692.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W.O. for the author, and sold by J. Blare, at the Looking-glass on London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface to the reader signed: Robert Russel.</note>
+                  <note>Imprint date suggested by Wing.</note>
+                  <note>Caption title on p. 1: The plain way to heaven.</note>
+                  <note>With title page vignette (woodcut).</note>
+                  <note>Copy has print fade and print show-through, is cropped at head with some loss of print and pagination.</note>
+                  <note>Incorrect title and Wing number in reel guide.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Future life --  Early works to 1800.</term>
+               <term>Heaven --  Early works to 1800.</term>
+               <term>Hell --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35874:1" rendition="simple:additions"/>
+            <p>HEAVEN's GLORY, AND <hi>Hell's Terror:</hi> Containing the Glory of the Saints in HEAVEN with Jeſus Chriſt, and the Eternal Torments of the Dam<g ref="char:EOLhyphen"/>ned in HELL.</p>
+            <figure/>
+            <p>
+               <hi>London:</hi> Printed by <hi>W. O.</hi> for the Author, and Sold by <hi>J. Blare,</hi> at the <hi>Looking-glaſs</hi> on <hi>London-bridge.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:35874:2"/>
+            <head>The Preface to the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>SInce the time my little Book for Chil<g ref="char:EOLhyphen"/>dren firſtcome abroad, I was perſwaded by ſome of my Friends, to ſet out another Book for thoſe of riper Years, which I was not very free to do at firſt; but now at laſt, I have yielded to it, hoping it will be for the good of their Souls. And I could think no Subject more ſuitable for Young &amp; Old, than to make a Book of Directions, by what means they may eſcape Everlaſting Tor<g ref="char:EOLhyphen"/>ments, and get ſafe to Heaven.</p>
+            <p>I had thought at firſt, to have made this a double Book, but I have yielded to make it only a ſmall Penny-Book, becauſe all Poor, as well as Rich, might be able to purchaſe One; for I earneſtly wiſh'd that this little Book may come into the hands of them all; &amp; that all into whoſe hands this little Book ſhould come, would follow theſe Directions, and lead ſuch Lives, as that they may be Saved in the Day of the Lord Jeſus. Which is the ear<g ref="char:EOLhyphen"/>neſt Prayer of your dear Friend,</p>
+            <closer>
+               <signed>Robert Ruſſel.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35874:2"/>
+            <head>THE <hi>Plain Way</hi> TO HEAVEN.</head>
+            <p>THE Reaſons why I write theſe Di<g ref="char:EOLhyphen"/>rections, is, Becauſe ſo many thou<g ref="char:EOLhyphen"/>ſands flock to Hell, when they ve<g ref="char:EOLhyphen"/>rily think they are in the Way to Heaven. And others go on ſecurely in their Sins, running on in all kind of Wickedneſs, not conſidering what will become of them, until they drop into Hell. I ſhall therefore proceed after that Order, as I did in my <hi>Little Book for Children:</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> I will give you a ſhort Hint of the dreadful Eſtate of the Wicked; and then of the joyful Eſtate of the Godly; with ſome
+<pb n="2" facs="tcp:35874:3"/>Directions in order to your Salvation. Con<g ref="char:EOLhyphen"/>ſider firſt, all you that continue in your ſins, and will not be perſwaded to repent and lead a new life, how dreadful your Eſtate will be at laſt; for as long as you remain in your unconverted Eſtate, God and you are Enemies, you are under his Wrath and Curſes: You are Slaves to the Devil. And beſides all this, you are in danger every hour of dropping into Hell; you know not how ſuddenly Death may ſeize upon you. And if then you are unprepated, you ſhall be ha<g ref="char:EOLhyphen"/>led by the Devils down to Hell, where you ſhall be kept under Chains of Darkneſs unto the dreadful judgment of the Great Day; and then your Bodies ſhall be raiſed to Life again, and be ſummoned before the Judg<g ref="char:EOLhyphen"/>ment-geat of Chriſt, where you ſhall give a ſtrict Account for all things that you have thought, done, or ſpoken in your life-time; there you ſhall ſtand trembling before your offended Judge, expecting that doleful Sen<g ref="char:EOLhyphen"/>tance to be pronounced upon you, <hi>Depart from me ye curſed into everlaſting fire, which was prepared for the devil and his angels.</hi>
+            </p>
+            <p>No ſooner is this dreadful Sentance paſt, but away you muſt be gone, away you ſhall be haled by the Devils, with the reſt of your damned Crew, down into that Lake that
+<pb n="3" facs="tcp:35874:3"/>burns with Fire and Brimſtone: where you ſhall be continually tormented with thegnaw<g ref="char:EOLhyphen"/>ings of your guilty Conſcience; where you ſhall be continually ſcorched with the burn<g ref="char:EOLhyphen"/>ing Wrath of Almighty God: there your Bloud ſhall boyl, your fleſh ſhall fry; there you ſhall lye howling and ſcreeching conti<g ref="char:EOLhyphen"/>nually in that Lake of Fire, and never have eaſe nor end.</p>
+            <p>But on the other fide conſider how happy your Conditions will be, if you in time re<g ref="char:EOLhyphen"/>pent and forſake your Sins, and become new Creatures; that then God will be your Fa<g ref="char:EOLhyphen"/>ther, Chriſt will be your Brother, and the Spirit will be your Comforter: you ſhall be filled with Peace of Conſcience, which is better then the carnal Peace of the Wicked. You ſhall be filled with the Joys of the Holy Ghoſt, which a thouſands times ſurpaſſeth all Worldly Joys: You ſhall have the free and full Pardon of all your Sins; ſo that they ſhall be remembred no more And be<g ref="char:EOLhyphen"/>ſides all this, whenſoever Death comes, whe<g ref="char:EOLhyphen"/>ther ſooner or later, you ſhall be ſure of Heaven; and at your laſt gaſp, the Angels ſhall carry your Soul, as they did the Soul of <hi>Lazarus,</hi> into the Kingdom of Heaven. And as for your Body, that ſhall be laid in the Grave, as in the Bed of Chriſt, there to
+<pb n="4" facs="tcp:35874:4"/>reſt until the glorious Morning of the Reſur<g ref="char:EOLhyphen"/>rection; and then your Bodies ſhall be raiſed again, and faſhioned <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike unto the glorious Body of Chriſt; and Soul and Body being then reunited, you ſhall be openly acknow<g ref="char:EOLhyphen"/>ledged and acquitted, and be placed at the right hand of Chriſt, and hear that comforta<g ref="char:EOLhyphen"/>ble Sentance pronounced unto you, <hi>Come ye bleſſed of my Father, inherit the kingdom which was prepared for you from the foundation of the worla.</hi> Then you ſhall be received with re<g ref="char:EOLhyphen"/>joycing and triumphing into the Heaven of Heavens, the place of Joy and Bliſs. There<g ref="char:EOLhyphen"/>fore you ſhall be ſtript of all your Robes of Mortality, and be cloath'd with immorta<g ref="char:EOLhyphen"/>lity: then you ſhall ſit down to reſt with <hi>A<g ref="char:EOLhyphen"/>braham, Iſaac,</hi> and <hi>Jacob,</hi> in the Kingdom of Heaven. There you ſhall poſſeſs ſuch Di<g ref="char:EOLhyphen"/>vine Freaſures, ſuch rare Joys, yea, variety of Joys, and ſuch ſweet Delights, as no Mor<g ref="char:EOLhyphen"/>tal Eyes hath ever ſeen, no Mortal Ear hath ever heard, nor can it ever enter into the Heart of Man to conceive, what Joys and Delights God hath prepared for you in Hea<g ref="char:EOLhyphen"/>ven; then you ſhall be for ever free from all kind of Sin and Sorrow: <hi>There ſhall be no more death, neither ſorrow, nor crying; neither ſhall there be any more pain, for the former things are paſsed away: and God ſhall wipe away all
+<pb n="5" facs="tcp:35874:4"/>tear's from your eyes,</hi> Revel. 21.4. There ſhall be Life without Death, Health with<g ref="char:EOLhyphen"/>out Sickneſs, and Pleaſure without Pain; as you ſhall be freed from all Evil, ſo you ſhall enjoy all the Good that can be enjoyed. You ſhall there meet all your dear Friends and Relations, that departed in the Fear of God, there you ſhall rejoyce one with another; and with one heart and voice ſing <hi>Praiſes and Hallelujahs to God, to the Lamb that ſits upon the Throne for ever and ever.</hi>
+            </p>
+            <p>And now I hope you are ready to ask, <hi>What ſhall we do, that we may eſcape everlaſt<g ref="char:EOLhyphen"/>ing Torments, and get ſafe to Heaven?</hi> And begin to be prieſt at the Heart, and are rea<g ref="char:EOLhyphen"/>dy to ſay, <hi>What ſhall we do to be ſaved?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If it be ſo, that you earneſtly deſire to know the Way to Heaven, and are wil<g ref="char:EOLhyphen"/>ling to walk in that Way, then as I in my little Book for young Ones, <hi>Nine Directi<g ref="char:EOLhyphen"/>ons,</hi> what they ſhould do to eſcape Hell, and attain Heaven: So here I will give you ſome Directions, <hi>What you ſhould do <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be Saved<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> And inſtead of many, I will only give you theſe two: That is, <hi>(Repent and B<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ue the Goſpel,)</hi> follow but there two D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ctions and you are in the right way to Heaven <g ref="char:punc">▪</g> The Law indeed, requires <hi>Perfect, <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ence;</hi> but no meer Man, ſince the Fall, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> per<g ref="char:EOLhyphen"/>fectly
+<pb n="6" facs="tcp:35874:5"/>to keep the Commandments of God, and ſo by the Works of the Law, can never be ſaved.</p>
+            <p>God has by Chriſt, our Redeemer, required <hi>Faith</hi> and <hi>Repentance,</hi> as the Conditions of the Goſpel, by which Eternal Life is to be had. <hi>Faith</hi> and <hi>Repentance</hi> is all that God requires in order to our Salvation: <hi>Repent and believe the Goſpel,</hi> and you ſhall certainly be ſaved. I will give you as plain Directions as poſſible I can, how you ſhall attain theſe two Graces:</p>
+            <q>First for Repentance.</q>
+            <p>You muſt know that there are two kinds of Repentance; there is a falſe Repentance, and a true Repentance:</p>
+            <p>A falſe Repentance, is that which a Man is driven to, through fear of Hell and Dam<g ref="char:EOLhyphen"/>nation. When a wicked Man lyes upon his Death-bed, then he ſeems to be ſorry for his Sins paſt; and makes many fair Promiſes of a new Life, if it ſhould pleaſe God to reſtore him again: though in the mean time, he likes and loves thoſe Sins he ſeems to repent of; and if it pleaſe God to reſtore him to his former Health, he follows his old courſe again. Now this kind of Repentance can never be effectual to Salvation.</p>
+            <p n="2">2. Now you muſt mind what true Repen<g ref="char:EOLhyphen"/>tance is: True Repentatce is a ſaving
+<pb n="7" facs="tcp:35874:5"/>Grace, whereby a Sinner out of a true ſence of his Sin, and apprehenſion of the mercy of God in Chriſt, doth with grief and hatred of his Sin, turn from it unto God, with full purpoſe of, and endeavour after new Obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p>But now ſeeing without this Repentance, there is no getting to Heaven, and that we cannot repent of ourſelver, it is of God's free Gift. I will therefore give you ſome plain Directions how Repentance may be had, and how to go through with it; for though we cannot repent of ourſelves, yet if we do not repent the fault lyes upon us.</p>
+            <p n="1">1. The firſt ſtep to true Repentance, is the Examination of your ſelves; try your Hearts, and ſearch into your former Life, how, and after what manner you have ſpent your time ſince you have been a Child; and to this end, I counſel you to make a Cata<g ref="char:EOLhyphen"/>logue of all your Sins you can poſſible call to mind; for which purpoſe you muſt take the Ten Commandments for your Pattern.</p>
+            <p>Had I time and room, I would for your Memory write you a Catalogue of Sins which is againſt each of the Ten Commandments; but they being ſo many, that I cannot do it in ſo ſmall a Book as this. But I counſel you to get you a Book wherein is the <hi>Expoſition on
+<pb n="8" facs="tcp:35874:6"/>the Ten Commandments,</hi> which ſhews what are thoſe Sins of Omiſſion and Commiſſion which is againſt every Command, and try yourſelf by theſe, and labour to find out as many of thoſe Sins as you know yourſelf to be guilty of, for you will find many Sins there, that you in your place cannot com<g ref="char:EOLhyphen"/>mit. You may only take but one Command<g ref="char:EOLhyphen"/>ment or two at a time, according as your Memory will hold, and if your Memory can<g ref="char:EOLhyphen"/>not contain all the Sins that you find yourſelf guilty of, you may write them down ac<g ref="char:EOLhyphen"/>cording as you find them out, which way I think to be the beſt: and then every Even<g ref="char:EOLhyphen"/>ing you may make uſe of this Catalogue, for the finding out the Sins that you com<g ref="char:EOLhyphen"/>mitted in the Day; likewiſe every Sabbath, the Sins you committed in the Week; like<g ref="char:EOLhyphen"/>wiſe before you receive the Sacrament, that thereby you may repent and be humbled for them.</p>
+            <p n="2">2. The ſecond ſtep to true Repentance, is the Confeſſion of thoſe Sins you have thus found out; you muſt ſpread them all before the Lord, and confeſs them all in particular, with all circumſtances: as the time when, place where, and manner how, ſuch and ſuch things are committed. Now many confeſs in general, that they are Sinners, but few
+<pb n="9" facs="tcp:35874:6"/>confeſs their Sins; and if your Sins are ſo innumerable that you cannot find out every particular Sin, ſo as to confeſs them all in particular, then confeſs the reſt in the gene<g ref="char:EOLhyphen"/>ral. And there is no doubt but God will take this for a true and ſincere Confeſſion, in that there is no known ſin that you would willingly hide from God.</p>
+            <p n="3">3. Another ſtep to true Repentance, is godly Sorrow for thoſe Sins thus confeſſed. And it is godly Sorrow that works Repen<g ref="char:EOLhyphen"/>tance to Salvation, never to be repented of. Now for the obtaining of this godly Sorrow, you muſt uſe theſe means:</p>
+            <p n="1">1. Lay to heart how good, and how mer<g ref="char:EOLhyphen"/>ciful God hath been to you: How many To<g ref="char:EOLhyphen"/>kens of his Love and Kindneſs he hath be<g ref="char:EOLhyphen"/>ſtowed upon you; and yet how ill you have required him. Seriouſly conſider, how he hath delivered you from ſuch and ſuch a Sickneſs, when you were near Death: How he hath preſerved you from ſuch and ſuch a Danger: How he hath delivered you from ſuch and ſuch Enemies: That not withſtand<g ref="char:EOLhyphen"/>ing your many Provocations, yet he hath born with you all this while: he hath pati<g ref="char:EOLhyphen"/>ence with you, and waifs for your Repent<g ref="char:EOLhyphen"/>ance, who might in Juſtice have ſnatch'd you away whilſt you were ſinning, and ſent you
+<pb n="10" facs="tcp:35874:7"/>quick to Everlaſting Burnings. Yet ſtill he ſpares you; yet, he gives you every day freſh Supplies of his Mercy: and as before you were to make a Catalogue of your Sins, ſo here make a Catalogue of God's Mercies; thoſe ſeveral kinds of Mercies and Favours you have received from him, and then lay to heart what a baſe unthankful Wretch you have been, thus to provoke and grieve ſo good and merciful a God. Think thus with yourſelf: <hi>O that I ſhould be ſuch a baſe, vile wretch, for to provoke and grieve ſo loving a Father, that has been ſo good and gracious unto me; ſo merciful a Saviour that died for me.</hi>
+            </p>
+            <p>Such Conſiderations deeply laid to heart, will prick your heart into godly ſorrow for your Sius; as <hi>Peter,</hi> when he conſidered how he denied Chriſt, <hi>He went out and wept bitter<g ref="char:EOLhyphen"/>ly,</hi> Matth. 26.75.</p>
+            <p n="2">2. Keep in mind the moſt of thoſe Sins whereby you have moſt diſhonour'd God, and grieved his Spirit; this alſo will be a means to work in you godly Sorrow.</p>
+            <p n="3">3. Ply the Throne of Grace by earneſt and conſtant Prayer, that God might take away that <hi>ſtony heart of your fleſh, and give you a heart of fleſh, as he hath promiſed,</hi> Ezeck. 36.26. But it may be, God will ſeem not to hear your Prayers preſently, if therefore
+<pb n="11" facs="tcp:35874:7"/>you cannot find your heart to relent the firſt time, go and pray again and again; and give God no reſt until he hear you; and then of a certain, one time or other, God will mele your hearts into godly Sorrow and Remorſe for your former Sins; and then this excel<g ref="char:EOLhyphen"/>lent Grace of Repentance is begun and wrought in you.</p>
+            <p n="4">4. The next thing to be done, is this, <hi>Beg heartily to God for the Pardon of your for<g ref="char:EOLhyphen"/>mer Sins, that they may be caſt all behind his back, that they may be waſh'd away in the Blood of Chriſt.</hi>
+            </p>
+            <p>And then laſtly, make a firm, ſtrong, and ſettled Reſolution, (hence forth to lead a new Life) this muſt not be a weak Reſolution, but it muſt be a ſettled and deliberate Reſolu<g ref="char:EOLhyphen"/>tion. Now, when a Man ſeriouſly conſiders, that except he becomes a new Creature, he cannot be ſaved; and thereupon takes up a ſtrong and ſixt Reſolution, hence forth to lead a new Life, the Work is more than half done; that Man is not far from the King<g ref="char:EOLhyphen"/>dom of Heaven. Thus for the Act of Re<g ref="char:EOLhyphen"/>pentance. Now I will give you ſome Helps for the daily renewing of your Repentance:</p>
+            <p n="1">1. Every Morning as ſoon as you riſe, proſtrate yourſelves before the Throne of Grace, and earneſtly beg for God's aſſiſting
+<pb n="12" facs="tcp:35874:8"/>Grace, to keep you from falling into any kind of Sin that day; for after a Man is re<g ref="char:EOLhyphen"/>generated, he is yet daily liable to fall foul into Sin, without the aſſiſtance of God's ſpe<g ref="char:EOLhyphen"/>cial Grace. Therefore earneſtly deſire of God in Prayer, that he might ſtrengthen you againſt all Temptations of the World, the Fleſh, and the Devil; and keep you that day from falling into any kind of Sin.</p>
+            <p n="2">2. When you have thus done, then go a<g ref="char:EOLhyphen"/>bout the works of your Calling. But ſet a ſtrict and continual Watch over your Heart and all your Senſes; watch your Eyes, that they do not wander after Vanity; watch your Tongue, that no Lies nor vain Jeſting, nor unproſitable, filty, and corrupt Speeches don't come from that. But above all, watch your Heart, that no evil Thoughts do enter in there; for the Heart is the Spring and Fountain of all ſin and wickedneſs; and be very jealous over yourſelves in every thing you do, leſt at any time you ſhould ſin in it, and keep yourſelves from all the occaſions of Sin; meddle with none of the Devil's Baits, leaſt you tempt God to leave you to be overcome. And as often as the Devil doth tempt you to any kind of ſin, or do offer you any Bait, then immediately lift up your Hearts to God by Ejaculatory Pray<g ref="char:EOLhyphen"/>ers,
+<pb n="13" facs="tcp:35874:8"/>as thus, <hi>Lord, vanquiſh Satan at this time, that he don't overcome me; Lord preſerve me this once from falling into ſin: Lord have mer<g ref="char:EOLhyphen"/>cy on my ſoul and keep and ſtreng then me againſt this temptation of the Devil, that I be not over<g ref="char:EOLhyphen"/>come.</hi> And if wicked Men ſhould at any time ſeek to draw you into Sin with them, then make a firm Reſolution with yourſelf, never to conſent, and as much as poſſible you can, keep yourſelf from the Company of wicked Men: But when at any time you, through Iufirmity, fall into Sin, then lye not in it, but immediately go by yourſelf into ſome corner, and there preſent yourſelf, and humbly confeſs it to God, and earneſtly beg that God would caſt it behind his back, and waſh it away in his Son's blood, that it may never riſe up againſt you, to ſhame or condemn you; and give yourſelf no reſt un<g ref="char:EOLhyphen"/>til God hath given you ſome aſſurance of Pardon; and withal, renew your Reſolution to be more watchful for the time to come. Thus renew your Repentance as oft as you fall into Sin; or if you cannot do it pre<g ref="char:EOLhyphen"/>ſently as ſoon as you ſin, to be ſure to do it before you lye down to ſleep at night, every night before you lye down in your Bed, look back into the day paſt. what Sins you have fallen into, and repent and beg pardon for
+<pb n="14" facs="tcp:35874:9"/>them, and look alſo and ſee what Tempta<g ref="char:EOLhyphen"/>tions you have overcome, and what Graces God hath ſtrengthened in you and rejoyce and praiſe God for it. Thus by continual watching and praying, and ſtriving, you will find Sin to die in you more and more, and Grace more and more to grow and in<g ref="char:EOLhyphen"/>creaſe in you: And whilſt others grow near Hell, you will grow nearer and near<g ref="char:EOLhyphen"/>er to Heaven. This is the firſt ſtep in the Way to Heaven, Repentance.</p>
+            <q>The Second is Faith</q>
+            <p>As firſt I directed you to Repent, ſo ſe<g ref="char:EOLhyphen"/>condly, <hi>Believe the Goſpel.</hi> Now Faith is a ſaving Grace, whereby receive and reſt up<g ref="char:EOLhyphen"/>on Chriſt alone for Salvation, as he is freely offered to us in the Goſpel. Now ſeeing a true ſaving Faith is not your Power, but it is the Gift of God, and God always beſtows it upon thoſe that uſe the Means which he hath preſcribed in his Word for the obtain<g ref="char:EOLhyphen"/>ing it. I ſhall therefore give you ſome Di<g ref="char:EOLhyphen"/>rections, what you ſhall do to have this Grace of Faith wrought in you:</p>
+            <p n="1">1. Be deligent in reading the Scriptures, Firſt, you muſt every Morning and Even<g ref="char:EOLhyphen"/>ing. read a Chapter in your Bible, or elſe ſome part of a godly Sermon; and when you read, you muſt not run it over and then
+<pb facs="tcp:35874:9"/>leave it, you were as good do nothing as do ſo. But when you read, you muſt take e<g ref="char:EOLhyphen"/>ſpecial heed what you be a reading of, and when you have done, look back a little up<g ref="char:EOLhyphen"/>on what you have read, and ſee what Sins are condemned there, that you know your ſelf guilty of, and be humbled for them, what Duties are required there, and reſolve to practiſe them; what Judgments God hath threatned againſt ſuch and ſuch Sins, and ſtand in awe of them; what Promiſes God hath there made, and what are the Conditions of thoſe Promiſes, and reſolve through the Grace of God inabling you, to perform thoſe Conditions, that thoſe Pro<g ref="char:EOLhyphen"/>miſes may belong to you; and i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo doing, then you read with Profit indeed.</p>
+            <p n="2">2. Be fervent and diligent in hearing the Word preached, <hi>For faith cometh by hear<g ref="char:EOLhyphen"/>ing, and hearing by the word of God,</hi> Rom. 10.17. But then you muſt not do as moſt do, who either ſleep all the Sermon-time, or elſe lend their Ears for a while, and then when Sermon is ended, they let the Devil ſteal it out of their Hearts, and ſo never mind it af<g ref="char:EOLhyphen"/>terwards, but you were better never go to Church at all, than to go and hear after that rate. But when you be at Church you muſt hearken with all the Attention you can
+<pb n="16" facs="tcp:35874:10"/>hearken earneſtly, as if you were to die preſently and go to Judgment. And for your help herein, you muſt mark what is the Doctrine; what are the Reaſons and U<g ref="char:EOLhyphen"/>ſes, and how many they are.</p>
+            <p n="2">2. Hear with Affection, and for your help, you muſt hear as if God himſelf were a ſpeaking to you, and as if he ſpoke di<g ref="char:EOLhyphen"/>rectly to you; you muſt hear as if it were indeed the Word of God, and not of Man.</p>
+            <p n="3">3. Whilſt you are a hearing, ſet a Reſo<g ref="char:EOLhyphen"/>lution to practiſe what you hear, and when you come home, call over the Heads of the Sermon in your Mind, and turn every Uſe and Direction that has been delivered into Prayer, pray for God's Bleſſing on it, and ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, it matter of your Meditation all the Week: and then laſtly, ſet to the practice of it.</p>
+            <p n="3">3. Another means for the getting of a ſaving Faith, is earneſt Prayer unto God for it, <hi>Matth.</hi> 7.7. <hi>Ask and you ſhall have, ſeek and you ſhall find, kneck and it ſhall be opened un<g ref="char:EOLhyphen"/>to you.</hi> But you will ſay, it may be God will not accept my Prayers, for God heareth not Sinners, and the Prayers of the Wicked are Abomination unto him. I anſwer, it is wil<g ref="char:EOLhyphen"/>ful Sinners that God will not hear, they that pray for Mercy, and other good things, and
+<pb n="17" facs="tcp:35874:10"/>yet hate to be reformed, the Prayers of ſuch God will not regard: But they that come to God in a returning way, with a full pur<g ref="char:EOLhyphen"/>poſe to leave their Sins, and pray, and ear<g ref="char:EOLhyphen"/>neſtly deſire Grace, eſpecially this Grace of Faith, they ſhall certainly be accepted and have their Prayers granted. But if you deſire indeed to have this Grace of Faith beſtowed on you, then you muſt look to the manner of your Prayers; you muſt not pray as moſt do, but you muſt pour out your very Souls in Prayer to God, your Hear and Tongue muſt go together, earneſtly deſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing that which you pray for; you muſt pray with zeal and fervency; you muſt ſtrive and wreſtle with God in Prayer, and never give him reſt until he hath granted your deſire, theſe are the Prayers that God takes delight in; and if God anſwer not your Prayers the firſt nor ſecond time, then try again and again as the Woman of <hi>Canaan</hi> did, and then you need not doubt but God will hear you at laſt.</p>
+            <p>Now concerning the Act of Faith, take but this Direction: Make a Catologue of all the Promiſes, as you did before of your Sins, and God's Mercies; and then hearti<g ref="char:EOLhyphen"/>ly believe, and aſſure yourſelves, that every one of thoſe Promiſes belong to all thoſe that perform the Conditions of thoſe Pro<g ref="char:EOLhyphen"/>miſes;
+<pb n="18" facs="tcp:35874:11"/>and if you perform the Conpition, then thoſe Promiſes belong to you. As for inſtance, I will name this one particular Promiſe, <hi>Matt.</hi> 19.29. <hi>Every one that hath forſaken houſes, or brethren, or ſiſters, or father, or mother, or wife, or children, or lands for my name's ſake, ſhall receive an hundred fold, and ſhall inherit everlaſting life.</hi> Now to make uſe of this Promiſe, when you thus embrace Chriſt as is he offer'd, when you make your greateſt care to obey the Commands of Chriſt, all his commands out of love to him, as our Saviour. When you are hear<g ref="char:EOLhyphen"/>tily willing to forſake all your beloved plea<g ref="char:EOLhyphen"/>ſures, your darling Luſt; your ſecret Sin, for Chriſt's ſake; and if at laſt you ſhould be called to it, can willingly forſake Houſes and Lands, yea, and your own Life too for him, reſting fully and wholly upon him for Salvation, then you are true Believers; and ſuch a Faith as this will certainly bring you to Heaven. Thus, if you walk according to this Rule, that I have here ſet you, if you do thus Repent, and believe the Goſpel, then at laſt, when Unbelievers and all impenitent Sin<g ref="char:EOLhyphen"/>nersſhall be turned into Hell, you ſhall be re<g ref="char:EOLhyphen"/>ceived into the Joys of our Lord and Maſter, there to reign with him for ever and ever.</p>
+            <p>Which God of his Mercy grant unto us all. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35874:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
